@@ -12,6 +12,7 @@ require (
 	github.com/golang-collections/collections v0.0.0-20130729185459-604e922904d3
 	github.com/google/uuid v1.1.1
 	github.com/gorilla/mux v1.7.3
+	github.com/influxdata/influxdb1-client v0.0.0-20200515024757-02f0bf5dbca3 // indirect
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/pebbe/zmq4 v1.0.0
 	github.com/prometheus/client_golang v1.2.1

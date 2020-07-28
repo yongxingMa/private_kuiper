@@ -46,3 +46,4 @@ RUN rpm -ivh _packages/kuiper-*.$(uname -m).rpm \
     && rpm -e kuiper \
     && [ "$(rpm -q emqx)" == "package emqx is not installed" ]
 
+
